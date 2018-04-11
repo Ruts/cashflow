@@ -33,4 +33,8 @@
         </menu>
     </item>
 
+    <item
+        android:id="@+id/nav_exit"
+        android:title="@string/text_exit"/>
+
 </menu>
