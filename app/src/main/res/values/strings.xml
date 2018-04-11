@@ -9,4 +9,7 @@
     <string name="text_new_game">NEW GAME</string>
     <string name="text_conntinue">CONTINUE</string>
     <string name="text_exit">EXIT</string>
+
+    <string name="text_character_pilot">PILOT</string>
+    <string name="text_character_doctor">DOCTOR</string>
 </resources>

@@ -30,7 +30,7 @@ public class StartScreenActivity extends AppCompatActivity {
         newGame.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent newActivity = new Intent(getApplicationContext(), RatRaceActivity.class);
+                Intent newActivity = new Intent(getApplicationContext(), CharacterSelectActivity.class);
                 startActivity(newActivity);
                 finish();
             }
